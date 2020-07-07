@@ -5,6 +5,7 @@
 printInteger(int num)
 {
     print('the number is $num');
+    print('the number is ${num}');
 }
 
 main(){
