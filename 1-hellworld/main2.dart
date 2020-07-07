@@ -1,3 +1,7 @@
+// 单行注释
+/*
+   多行注释
+   */
 printInteger(int num)
 {
     print('the number is $num');
